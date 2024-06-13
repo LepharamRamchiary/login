@@ -77,7 +77,7 @@ export default function Login() {
         <p className="flex justify-center gap-1 items-center mt-10 text-center text-sm text-gray-500">
           Don't have account?
           <a
-            href="#"
+            href="/register"
             className="font-semibold leading-6 text-indigo-600 hover:text-indigo-500 "
           >
             Register
