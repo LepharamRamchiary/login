@@ -87,7 +87,7 @@ export default function Signup() {
         <p className="flex justify-center gap-1 items-center mt-10 text-center text-sm text-gray-500">
           You have already account?
           <a
-            href="/"
+            href="login"
             className="font-semibold leading-6 text-indigo-600 hover:text-indigo-500 "
           >
             Login
